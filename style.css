@@ -1,0 +1,142 @@
+<style>
+
+  .jumbotron.jumbotron-fluid h1{
+    float: center;
+    font-family: 'Acme', sans-serif;
+    font-size: 30px;
+    color:blue;
+  }
+
+  #Profile{
+    float:right;
+    width:400px;
+    height:300px;
+  }
+
+  #container{
+    width: 100%;
+  }
+
+  #left{
+    float: left;
+    background-color: aqua;
+    width: 70%
+  }
+
+  #right{
+    float: right;
+    background-color: yellow;
+  }
+
+
+
+  div.intro{
+    float:center;
+    width:75%;
+    height:300px;
+  }
+
+  .childDiv{
+    display:inline-block;
+    float: right;
+    margin: 2px;
+  }
+  .childDiv h{
+    font-family: 'Acme', sans-serif;
+    font-size: 32px;
+    color:#4c2770;
+  }
+
+  .childDiv p{
+    font-family: 'Boogaloo', cursive;
+    font-size: 15px;
+    color:black;
+  }
+
+  .childDiv li{
+    font-family: 'Boogaloo', cursive;
+    font-size: 15px;
+    color:black;
+  }
+
+  #BLeft{
+    border-radius:40px;
+    background-color: #c7a4e8;
+    width: 33%;
+    height: 200px;
+    padding: 5px;
+  }
+
+  #BMiddle{
+    border-radius:40px;
+    background-color: #c7a4e8;
+    width: 33%;
+    height: 200px;
+    padding: 5px;
+  }
+
+  #BRight{
+    border-radius:40px;
+    background-color: #c7a4e8;
+    width: 33%;
+    height: 200px;
+    padding: 5px;
+  }
+
+  .img-circle {
+      float:right;
+      width: 200px;
+      height:100px;
+  }
+
+  .scratching{
+    border-radius: 25px;
+    margin: auto;
+    border: 4px solid #31d5d8;
+    padding: 20px;
+    width: 100%;
+    height: 400px;
+    float:left;
+  }
+
+  .scratching h{
+    font-family:'Sigmar One', cursive;
+    font-size: 50px;
+    color:#4c2770;
+  }
+
+  .scratching p{
+    font-family: 'Boogaloo', cursive;
+    font-size: 18px;
+    color:blue;
+    float:right;
+    width:50%
+  }
+
+  .photoing{
+    border-radius: 15px;
+    margin: auto;
+    border: 4px solid #31d5d8;
+    padding: 20px;
+    width: 100%;
+    height: 600px;
+    float:left;
+  }
+
+  .photoing h{
+    font-family:'Sigmar One', cursive;
+    font-size: 50px;
+    color:#4c2770;
+  }
+
+  #carouselExampleControls{
+    float:left;
+    width:50%;
+    height:500px;
+  }
+
+  .photogallery{
+    width:100%;
+    height:500px;
+  }
+</style>
